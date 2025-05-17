@@ -189,7 +189,7 @@ func cekTimDanJadwal(timA, timB string, jadwal int, namaTim *DataUtama, n int) {
 	} else if !ditemukanA {
 		fmt.Println("\n Tim A tidak ditemukan atau jadwalnya salah.")
 	} else {
-		fmt.Println("\n Tim B tidak ditemukan atau jadwalnya salah.")
+		fmt.Println("\nRESAN GACOR")
 	}
 }
 
